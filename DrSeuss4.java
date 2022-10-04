@@ -41,8 +41,8 @@ public class DrSeuss4
     {
         System.out.println("I can clean up this spot with VOOM!" );
     }
-    
-    public static void run()
+
+    public static void main (String[] args)
     {
         DrSeuss4 cith = new DrSeuss4();
         cith.catInTheHat();

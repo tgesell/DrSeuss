@@ -49,7 +49,7 @@ public class DrSeuss3
         System.out.println("I can clean up this spot with VOOM!" );
     }
 
-    public static void run()
+    public static void main (String[] args)
     {
         DrSeuss3 cith = new DrSeuss3();
         cith.catInTheHat();

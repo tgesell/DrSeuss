@@ -11,8 +11,8 @@ public class DrSeuss5
          cat( catLetter );
        }
    }
-    
-   public static void run()
+
+    public static void main (String[] args)
    {
        DrSeuss5.cat('A');
    }

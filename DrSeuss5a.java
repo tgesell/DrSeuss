@@ -21,7 +21,7 @@ public class DrSeuss5a
        catHelper('A'); 
    }
 
-   public static void run()
+   public static void main(String[] args)
    {
        DrSeuss5a.cat();
    }

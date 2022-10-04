@@ -6,38 +6,37 @@
 //have students trace code on paper
 public class DrSeuss1
 {
-    public void catInTheHat()
+    public static void catInTheHat()
     {
        System.out.println("I can clean up this spot, but I need some help from my friend cat A");
        catA();
     }
 
-    public void catA()
+    public static void catA()
     {
        System.out.println("I can clean up this spot, but I need some help from my friend cat B");
        catB();
     }
 
-    public void catB()
+    public static void catB()
     {
        System.out.println("I can clean up this spot, but I need some help from my friend cat C");
        catC();
     }
 
-    public void catC()
+    public static void catC()
     {
        System.out.println("I can clean up this spot, but I need some help from my friend cat D");
        catD();
     }
 
-    public void catD()
+    public static void catD()
     {
         System.out.println("I can clean up this spot with VOOM!" );
     }
 
     public static void main (String[] args)
     {
-        DrSeuss1 seussReciter = new DrSeuss1();
-        seussReciter.catInTheHat();
+        DrSeuss1.catInTheHat();
     }
 }

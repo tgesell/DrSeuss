@@ -39,7 +39,7 @@ public class DrSeuss2
         System.out.println("I can clean up this spot with VOOM!" );
     }
 
-    public static void run()
+    public static void main (String[] args)
     {
         DrSeuss2.catInTheHat();
     }
