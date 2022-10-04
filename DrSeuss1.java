@@ -1,5 +1,6 @@
 /**
  * Objective: understand how to trace function calls - prelude to recursion
+ * In this version, there is one method for every phrase.
  * 
  */
 

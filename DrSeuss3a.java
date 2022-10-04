@@ -1,3 +1,7 @@
+/**
+ * A bit more sophisticated version of 3a, with better phrases - especially the first one.
+ *
+ */
 public class DrSeuss3a
 {
     private String [] catLetter;

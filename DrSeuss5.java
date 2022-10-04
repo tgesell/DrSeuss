@@ -1,3 +1,7 @@
+/**
+ * And now -- introducing -- recursion!  A method can call itself!  Why have different methods for every cat, when we can
+ * just have one method for cat, and cat can call itself to display the next message!
+ */
 public class DrSeuss5
 {
    public static void cat( char catLetter )

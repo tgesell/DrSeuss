@@ -1,7 +1,8 @@
-
 /**
- * A bit more sophisticated. We introduce an array, array initializer list.  Methods cannot be static - why?
-* 
+ * A bit more sophisticated. We introduce an array, array initializer list.
+ * Now our message function does not even require a parameter.  In fact, all of the "Cat"
+ * functions look so similar now, it makes me wonder if we can't combine them somehow.
+ *
  */
 public class DrSeuss3
 {

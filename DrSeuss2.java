@@ -1,7 +1,7 @@
-/*** Objective: understand how to trace function calls. This is also an example
- * of "code factoring".
- * 
-
+/** Objective: understand how to trace function calls. This is also an example
+ * of "code factoring".  The first version was re-factored to utilize a common method that
+ * displays a common portion of all the phrases.
+ *
  */
 public class DrSeuss2
 {

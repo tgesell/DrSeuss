@@ -1,3 +1,9 @@
+/**
+ * We don't even need an array.  We can just "count" up from A.
+ * Now our message function does not even require a parameter.  In fact, all of the "Cat"
+ * functions look so similar now, it makes me wonder if we can't combine them somehow.
+ *
+ */
 public class DrSeuss4
 {
     private char catLetter;

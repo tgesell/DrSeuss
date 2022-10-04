@@ -1,3 +1,7 @@
+/**
+ * A better version with better phrases at the beginning and end, a starter function for the first phrase,
+ * and a recursive "helper" message for the rest.
+ */
 public class DrSeuss5a
 {
    public static void catHelper( char catLetter )
